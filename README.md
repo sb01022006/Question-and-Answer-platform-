@@ -606,30 +606,39 @@ The server processes the following commands sent by clients:
 ## Working of the Client Side Process
 
 1. Registration of the user:
+
    <img width="488" alt="Screenshot 2025-05-17 at 8 46 39 PM" src="https://github.com/user-attachments/assets/b8176d24-ac82-4c35-82a3-971a71fa21b8" />
 
    
 3. User logging in:
+
   <img width="466" alt="Screenshot 2025-05-17 at 8 46 29 PM" src="https://github.com/user-attachments/assets/4c0bfa63-0898-4494-ae28-fd3508673a33" />
 
 4. Question posting feature:
+
    <img width="466" alt="Screenshot 2025-05-17 at 8 46 17 PM" src="https://github.com/user-attachments/assets/56f84a69-283c-478b-b601-194227e422dd" />
 
   
 5. Question listing feature:
+
   <img width="450" alt="Screenshot 2025-05-17 at 8 46 07 PM" src="https://github.com/user-attachments/assets/cd931ee3-8de6-48eb-99fc-3c39f6a732a9" />
 
 6. Question answering feature:
+
   <img width="503" alt="Screenshot 2025-05-17 at 8 45 55 PM" src="https://github.com/user-attachments/assets/76dfad2e-2de8-4d8a-892a-2de170eb8459" />
 
 7. Question searching feature:
+
  <img width="503" alt="Screenshot 2025-05-17 at 8 45 20 PM" src="https://github.com/user-attachments/assets/703899d7-351c-49bd-832c-f9a58c62b2dd" />
 
 8. Answer rating feature:
+
    <img width="399" alt="Screenshot 2025-05-17 at 8 44 29 PM" src="https://github.com/user-attachments/assets/15a41e7b-ae6c-4d4e-a05f-b1a35de03a4a" />
 9. Leaderboard feature:
+
   <img width="497" alt="Screenshot 2025-05-17 at 8 43 33 PM" src="https://github.com/user-attachments/assets/3f8ea761-4b21-4547-a73f-964b2c328e89" />
 10. Exit:
+
 <img width="459" alt="Screenshot 2025-05-17 at 8 43 07 PM" src="https://github.com/user-attachments/assets/2fd5d786-176e-4b73-a221-515925c825de" />
 
 
